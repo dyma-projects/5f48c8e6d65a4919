@@ -1,0 +1,12 @@
+.container {
+  width: 800px;
+  height: 200px;
+  border: 1px solid black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.redBg {
+  background-color: red;
+}
